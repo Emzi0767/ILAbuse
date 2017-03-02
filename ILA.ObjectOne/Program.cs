@@ -10,6 +10,7 @@ namespace ILA.ObjectOne
         {
             // The following code breaks .NET
             // Runtime will throw an exception saying parent of ClassZero could not be found
+            // This is beacause ClassZero does not inherit from System.Object
 
             var c0 = new ClassZero();
             var c1 = new ClassOne();
