@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Git Things", "Git Things", "{2FC00B72-6F7C-4AEC-8C31-C94E01F35926}"
 	ProjectSection(SolutionItems) = preProject
 		LICENSE.TXT = LICENSE.TXT
+		README.md = README.md
 	EndProjectSection
 EndProject
 Global
